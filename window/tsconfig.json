@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "alwaysStrict": true,
+        "allowJs": false,
+        "baseUrl": ".",
+        "rootDir": "src",
+        "outDir": "dist",
+        "target": "es6",
+        "module": "commonjs",
+        "inlineSourceMap": true        
+    },
+    "exclude": ["node_modules"]
+}
