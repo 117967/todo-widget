@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "react - public",
+			"path": "./public"
+		},
+		{
+			"name": "react - src",
+			"path": "./src"
+		},
+		{
+			"name": "electron - src",
+			"path": "./main/src"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
