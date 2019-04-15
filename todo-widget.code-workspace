@@ -11,9 +11,10 @@
 		{
 			"name": "electron - src",
 			"path": "./main/src"
+		},
+		{
+			"name": "appdata",
+			"path": "C:/Users/DMTRLLV/AppData/Roaming/todo-widget"
 		}
-	],
-	"settings": {
-		"git.ignoreLimitWarning": true
-	}
+	]
 }
